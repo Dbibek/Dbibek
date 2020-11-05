@@ -54,6 +54,14 @@
 
 ---
 
+<img align="left" alt=" Bibek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dbibek&show_icons=true&hide_border=true&count_private=true">
+
+<br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbibek&layout=compact&langs_count=8)](https://github.com/Dbibek/github-readme-stats)
+
 [portfolio]: https://bibekdhakal.netlify.app/
 [twitter]: https://twitter.com/ibibekdhakal
 [instagram]: https://www.instagram.com/bibek_dhakal1/
