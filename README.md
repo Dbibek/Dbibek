@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="bibek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bibek| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bibek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -21,8 +21,6 @@
 <br />
 
 ### Languages and Tools:
-
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -39,10 +37,25 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+<br />
+<br />
+ 
+ ### 📌 Latest projects:
+ - [Perosnal portfolio](https://bibekdhakal.netlify.app/)
+ - [Chat App](https://bibek-chatte-app.netlify.app/)
+ - [Countries Web App](https://countries-search-info.netlify.app/)
+ - [Client Personal Website](https://terveettavat.fi/)
+ - [Gatsby Blog](https://gatsby-blog-bibek.netlify.app/)
+
+<br />
+<br />
+
+#### At the moment, I'm doing internal projects at [Integrify][website]: online test app (I'm the current team scrum master). Related techs are on frontend side: React, TypeScript, Redux-Saga, Material-UI, Sass.
 
 ---
 
-[website]: https://bibekdhakal.netlify.app/
+[portfolio]: https://bibekdhakal.netlify.app/
 [twitter]: https://twitter.com/ibibekdhakal
 [instagram]: https://www.instagram.com/bibek_dhakal1/
 [linkedin]: https://www.linkedin.com/in/bbekdhakal/
+[website]: https://www.integrify.io
