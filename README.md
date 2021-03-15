@@ -8,7 +8,7 @@
 - 🔭 I’m currently taking a Full-stack program at Integrify!
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
-- 🥅 2020 Goals: Learn new techs and build more user-friendly web apps
+- 🥅 2021 Goals: Learn new techs and build more user-friendly web apps
 - ⚡ Fun fact: I play Cricket.
 
 ### Connect with me:
@@ -42,6 +42,8 @@
  
  ### 📌 Latest projects:
  - [Perosnal portfolio](https://bibekdhakal.netlify.app/)
+ - [React Quiz App](https://quiz-app-react-redux.netlify.app/)
+ - [ToDo List app with local storage](https://addtodos-list.netlify.app/)
  - [Chat App](https://bibek-chatte-app.netlify.app/)
  - [Countries Web App](https://countries-search-info.netlify.app/)
  - [Client Personal Website](https://terveettavat.fi/)
@@ -50,7 +52,7 @@
 <br />
 <br />
 
-#### At the moment, I'm doing internal projects at [Integrify][website]: online test app (I'm the current team scrum master). Related techs are on frontend side: React, TypeScript, Redux-Saga, Material-UI, Sass.
+#### At the moment, I'm Working on a Hospital Management system for Okhati Solution: ERM System(I'm Frontend Developer). Related techs are on frontend side: React, TypeScript, Redux-Saga, Material-UI, Sass.
 
 ---
 
@@ -58,7 +60,6 @@
 
 <br />
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbibek&layout=compact&langs_count=8)](https://github.com/Dbibek/github-readme-stats)
 
