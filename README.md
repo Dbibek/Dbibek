@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
 - 🥅 2021 Goals: Learn new techs and build more user-friendly web apps
-- ⚡ Fun fact: I play Cricket.
+- ⚡ Fun fact: I play Cricket in Finish Cricket League.
 
 ### Connect with me:
 
