@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
 - 🥅 2021 Goals: Learn new techs and build more user-friendly web apps
-- ⚡ Fun fact: I play Cricket in Finish Cricket League.
+- ⚡ Fun fact: I play Cricket in Finnish Cricket League.
 
 ### Connect with me:
 
@@ -41,7 +41,7 @@
 <br />
  
  ### 📌 Latest projects:
- - [Perosnal portfolio](https://bibekdhakal.netlify.app/)
+ - [Personal portfolio](https://bibekdhakal.netlify.app/)
  - [React Quiz App](https://quiz-app-react-redux.netlify.app/)
  - [ToDo List app with local storage](https://addtodos-list.netlify.app/)
  - [Chat App](https://bibek-chatte-app.netlify.app/)
