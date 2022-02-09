@@ -5,10 +5,10 @@
 
 ## I'm a business IT student and a full-stack developer!
 
-- 🔭 I’m currently taking a Full-stack program at Integrify!
+- 🔭 I’m currently taking a working as a Cloud Developer at Basware!
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
-- 🥅 2021 Goals: Learn new techs and build more user-friendly web apps
+- 🥅 2022 Goals: Learn Unit Testing and new techs.
 - ⚡ Fun fact: I play Cricket in Finnish Cricket League.
 
 ### Connect with me:
